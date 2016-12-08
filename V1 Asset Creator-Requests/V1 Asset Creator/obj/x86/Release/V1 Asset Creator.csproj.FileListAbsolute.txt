@@ -1,0 +1,42 @@
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\V1 Asset Creator.exe.config
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\V1 Asset Creator.exe
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\V1 Asset Creator.pdb
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\log4net.dll
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\Newtonsoft.Json.dll
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\OpenPop.dll
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\VersionOne.SDK.APIClient.dll
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\log4net.xml
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\Newtonsoft.Json.xml
+C:\V1 Asset Creator\V1 Asset Creator\obj\x86\Release\V1_Asset_Creator.ProjectInstaller.resources
+C:\V1 Asset Creator\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.csproj.GenerateResource.Cache
+C:\V1 Asset Creator\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.exe
+C:\V1 Asset Creator\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.pdb
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\V1 Asset Creator.exe.config
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.exe
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.pdb
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\V1 Asset Creator.exe
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\V1 Asset Creator.pdb
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\log4net.dll
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\Newtonsoft.Json.dll
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\OpenPop.dll
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\VersionOne.SDK.APIClient.dll
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\log4net.xml
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\bin\x86\Release\Newtonsoft.Json.xml
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\obj\x86\Release\V1_Asset_Creator.ProjectInstaller.resources
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\V1 Asset Creator.exe.config
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.exe
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.pdb
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\V1 Asset Creator.exe
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\V1 Asset Creator.pdb
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\log4net.dll
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\Newtonsoft.Json.dll
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\OpenPop.dll
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\VersionOne.SDK.APIClient.dll
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\log4net.xml
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\Newtonsoft.Json.xml
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\obj\x86\Release\V1_Asset_Creator.ProjectInstaller.resources
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\obj\x86\Release\V1 Asset Creator.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\BNSF\EmailAssetCreator\V1 Asset Creator-Requests\V1 Asset Creator\bin\x86\Release\V1 Request Asset Creator.exe.config

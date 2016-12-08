@@ -1,0 +1,13 @@
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Debug\V1 Asset Creator.exe.config
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Debug\V1 Asset Creator.exe
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Debug\V1 Asset Creator.pdb
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Debug\log4net.dll
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Debug\Newtonsoft.Json.dll
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Debug\OpenPop.dll
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Debug\VersionOne.SDK.APIClient.dll
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Debug\log4net.xml
+C:\V1 Asset Creator\V1 Asset Creator\bin\x86\Debug\Newtonsoft.Json.xml
+C:\V1 Asset Creator\V1 Asset Creator\obj\x86\Debug\V1_Asset_Creator.ProjectInstaller.resources
+C:\V1 Asset Creator\V1 Asset Creator\obj\x86\Debug\V1 Asset Creator.csproj.GenerateResource.Cache
+C:\V1 Asset Creator\V1 Asset Creator\obj\x86\Debug\V1 Asset Creator.exe
+C:\V1 Asset Creator\V1 Asset Creator\obj\x86\Debug\V1 Asset Creator.pdb

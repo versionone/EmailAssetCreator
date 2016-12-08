@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerInfo>
+	<V1Server>
+		<InstanceURL>https://www8.v1host.com/Training_KKey_042715R1</InstanceURL>
+		<AccessToken>1.PYd1cbvMRcr85KiSerP4W8qtb7Y=</AccessToken>
+    <!-- Fill in the ProxyURL, ProxyUserName, and ProxyPassword to enable Proxy Use -->
+    <ProxyURL></ProxyURL>
+    <ProxyUserName></ProxyUserName>
+    <ProxyPassword></ProxyPassword>
+		<IntervalInMinutes>2</IntervalInMinutes>
+	</V1Server>
+</ServerInfo>

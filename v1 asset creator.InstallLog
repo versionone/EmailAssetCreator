@@ -1,0 +1,9 @@
+﻿Uninstalling assembly 'C:\Install\v1 asset creator.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Install\v1 asset creator.InstallLog
+   assemblypath = C:\Install\v1 asset creator.exe
+Removing EventLog source VersionOne Asset Creator.
+Service VersionOne Asset Creator is being removed from the system...
+Service VersionOne Asset Creator was successfully removed from the system.
+Attempt to stop service VersionOne Asset Creator.

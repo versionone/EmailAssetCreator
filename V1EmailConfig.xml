@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmailInfo>
+	<EmailAccount>
+		<EmailAddress>versiononetesting@yahoo.com</EmailAddress>
+		<EmailPassword>altec123</EmailPassword>
+		<EmailPOP3>pop.mail.yahoo.com</EmailPOP3>
+		<POP3PortNumber>995</POP3PortNumber>
+		<EmailUseSSL>true</EmailUseSSL>
+		<EmailSmtpServer>smtp.mail.yahoo.com</EmailSmtpServer>
+		<EmailSmtpPort>587</EmailSmtpPort>
+		<EmailSmtpUseSSL>true</EmailSmtpUseSSL>
+		<ProjectScope>Scope:4976</ProjectScope>
+	</EmailAccount>
+	<EmailAccount>
+		<EmailAddress>versiononetesting3@yahoo.com</EmailAddress>
+		<EmailPassword>altec123</EmailPassword>
+		<EmailPOP3>pop.mail.yahoo.com</EmailPOP3>
+		<POP3PortNumber>995</POP3PortNumber>
+		<EmailUseSSL>true</EmailUseSSL>
+		<EmailSmtpServer>smtp.mail.yahoo.com</EmailSmtpServer>
+		<EmailSmtpPort>587</EmailSmtpPort>
+		<EmailSmtpUseSSL>true</EmailSmtpUseSSL>
+		<ProjectScope>Scope:4883</ProjectScope>
+	</EmailAccount>
+</EmailInfo>
